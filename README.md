@@ -2,6 +2,8 @@
 
 A modern platform for discovering and sharing 3D printing files. Built with Next.js 15, React 19, and Tailwind CSS.
 
+![PrintForge Homepage](screenshots/home.png)
+
 ## Features
 
 - Browse a curated library of 3D printable models
